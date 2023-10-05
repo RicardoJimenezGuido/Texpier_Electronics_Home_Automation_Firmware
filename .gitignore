@@ -1,0 +1,6 @@
+libraries/
+*~
+*.swp
+*.swo
+*.orig
+TAGS
